@@ -4,3 +4,9 @@
 ## Purposes
 
 Breeze icon theme is great. But, some icons didn't follow Breeze Design Guideline.
+
+## Goals
+
+[ ] LXQt Support
+
+[ ] Wine App icons support

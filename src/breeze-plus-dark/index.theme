@@ -25,7 +25,7 @@ DialogSizes=16,22,32,48,64,128,256
 
 # Directories
 
-Directories=apps/48
+Directories=apps/48,mimetypes/16,mimetypes/16@2x,mimetypes/16@3x,mimetypes/22,mimetypes/22@2x,mimetypes/22@3x,mimetypes/32,mimetypes/64
 
 # Apps
 
@@ -35,3 +35,61 @@ Context=Applications
 Type=Scalable
 MinSize=48
 MaxSize=256
+
+# Mimetypes
+
+[mimetypes/16]
+Size=16
+Context=MimeTypes
+Type=Fixed
+MinSize=16
+
+[mimetypes/16@2x]
+Size=16
+Scale=2
+Context=MimeTypes
+Type=Fixed
+MinSize=16
+
+[mimetypes/16@3x]
+Size=16
+Scale=3
+Context=MimeTypes
+Type=Fixed
+MinSize=16
+
+[mimetypes/22]
+Size=22
+Context=MimeTypes
+Type=Scalable
+MinSize=22
+MaxSize=24
+
+[mimetypes/22@2x]
+Size=22
+Scale=2
+Context=MimeTypes
+Type=Scalable
+MinSize=22
+MaxSize=24
+
+[mimetypes/22@3x]
+Size=22
+Scale=3
+Context=MimeTypes
+Type=Scalable
+MinSize=22
+MaxSize=24
+
+[mimetypes/32]
+Size=32
+Context=MimeTypes
+Type=Fixed
+
+[mimetypes/64]
+Size=64
+Context=MimeTypes
+Type=Scalable
+MinSize=64
+MaxSize=256
+
