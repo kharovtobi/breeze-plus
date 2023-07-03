@@ -10,6 +10,28 @@
 
 Breeze icon theme is great. But, some icons didn't follow Breeze Design Guideline.
 
+## Install
+
+* via AUR(will be upload)
+
+```
+$ yay -S breeze-plus
+```
+
+* via Script(testing)
+
+ * Local
+
+```
+$ ./install-local.sh
+```
+
+ * System-Wide
+
+```
+$ ./install-system-wide.sh
+```
+
 ## Goals
 
 [ ] LXQt Support
