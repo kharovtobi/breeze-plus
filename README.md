@@ -3,8 +3,8 @@
 
 ## Sources
 
-* ![Breeze](https://invent.kde.org/frameworks/breeze-icons)
-* ![Breeze Extra](https://github.com/varlesh/breeze-extra)
+* [Breeze](https://invent.kde.org/frameworks/breeze-icons)
+* [Breeze Extra](https://github.com/varlesh/breeze-extra)
 
 ## Purposes
 
