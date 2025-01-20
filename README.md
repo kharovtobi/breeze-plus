@@ -8,7 +8,7 @@
 
 ## Purposes
 
-Breeze icon theme is great. But, some icons didn't follow Breeze Design Guideline.
+Breeze icon theme is great. But, some icons are missing or don't follow Breeze Design Guideline.
 
 ## Install
 
