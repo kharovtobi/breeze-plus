@@ -18,15 +18,24 @@ Breeze icon theme is great. But, some icons didn't follow Breeze Design Guidelin
 $ yay -S breeze-plus
 ```
 
+* via manually
+
+```
+$ git clone https://github.com/mjkim0727/breeze-plus.git
+$ cd breeze-plus
+$ cd src
+$ cp -r breeze-plus* ~/.local/share/icons
+```
+
 * via Script(testing)
 
- * Local
+ - Local
 
 ```
 $ ./install-local.sh
 ```
 
- * System-Wide
+ - System-Wide
 
 ```
 $ ./install-system-wide.sh
