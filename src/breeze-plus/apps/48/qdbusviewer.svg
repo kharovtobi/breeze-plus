@@ -4,7 +4,7 @@
    width="48"
    version="1.1"
    id="svg24"
-   sodipodi:docname="qtdesigner.svg"
+   sodipodi:docname="qdbusviewer.svg"
    inkscape:version="1.4.1 (93de688d07, 2025-03-30)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -14,26 +14,59 @@
   <defs
      id="defs28">
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient857">
+       id="e"
+       x1="548.57001"
+       x2="562.57001"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,0.7142834,-0.87500263,0,50.87466,24.142867)">
       <stop
-         style="stop-color:#197cf1;stop-opacity:1;"
-         offset="0"
-         id="stop853" />
+         stop-color="#faae2a"
+         id="stop7" />
       <stop
-         style="stop-color:#20bcfa;stop-opacity:1"
          offset="1"
-         id="stop855" />
+         stop-color="#ffc35a"
+         id="stop8" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient857"
-       id="linearGradient859"
-       x1="0.22570349"
-       y1="33.009541"
-       x2="-10.820662"
-       y2="26.078043"
-       gradientUnits="userSpaceOnUse" />
+       id="linearGradient2"
+       x1="548.57001"
+       x2="562.57001"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#faae2a"
+         id="stop1" />
+      <stop
+         offset="1"
+         stop-color="#ffc35a"
+         id="stop2-3" />
+    </linearGradient>
+    <linearGradient
+       id="f"
+       x1="548.57001"
+       x2="562.57001"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,0.7142834,0.87500263,0,25.124741,31.143247)">
+      <stop
+         stop-color="#c61423"
+         id="stop9-6" />
+      <stop
+         offset="1"
+         stop-color="#dc2b41"
+         id="stop10" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4"
+       x1="548.57001"
+       x2="562.57001"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#c61423"
+         id="stop3" />
+      <stop
+         offset="1"
+         stop-color="#dc2b41"
+         id="stop4-7" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="namedview26"
@@ -137,26 +170,33 @@
      fill="#fcfcfc"
      id="path22"
      style="stroke-width:1.375" />
+  <path
+     id="use15"
+     d="M 47.999401,31.999984 41.999508,27 v 2.99999 l -11.999786,1.999994 11.999786,1.999994 v 2.99999 z"
+     style="fill:url(#e);stroke-width:0.790569" />
+  <path
+     id="use16"
+     d="m 28,39.000364 5.999893,-4.999983 v 2.99999 l 11.999786,1.999993 -11.999786,1.999994 v 2.99999 z"
+     style="fill:url(#f);stroke-width:0.790569" />
   <g
-     color="#4d4d4d"
-     id="g49"
-     transform="matrix(0.99317,0,0,0.97839,45.973146,6.8638408)">
-    <g
-       fill="url(#a)"
-       id="g45"
-       style="fill:url(#linearGradient859);fill-opacity:1">
-      <path
-         d="m -2.495,21.603 -13.584,13.789 h -0.004 V 40 h 4.54 V 39.995 L 2.041,26.206 2.039,26.204 2.041,26.202 -2.49,21.603 -2.492,21.605 Z"
-         id="path41"
-         style="fill:url(#linearGradient859);fill-opacity:1" />
-      <path
-         d="m -2.495,21.603 -13.584,13.789 h -0.004 V 40 h 4.54 V 39.995 L 2.041,26.206 2.039,26.204 2.041,26.202 -2.49,21.603 -2.492,21.605 Z m -2.263,3.923 2.934,2.978 -8.595,8.725 v -1.828 h -2.265 v -1.828 z m -9.06,9.197 v 1.828 h 2.265 v 1.828 l -0.465,0.472 h -1.801 l -1.133,-1.15 v -1.828 z"
-         id="path43"
-         style="fill:url(#linearGradient859);fill-opacity:1" />
-    </g>
+     color-rendering="auto"
+     shape-rendering="auto"
+     color-interpolation-filters="linearRGB"
+     image-rendering="auto"
+     fill-rule="evenodd"
+     text-rendering="auto"
+     color-interpolation="sRGB"
+     color="#000000"
+     id="g17"
+     transform="matrix(0.99317,0,0,0.97839,45.973366,4.86467)">
     <path
-       fill="#0c69cf"
-       d="m 1.246,25.419 -13.259,13.465 h -4.071 V 40 h 4.541 V 39.996 L 2.04,26.206 2.038,26.204 2.04,26.202 Z"
-       id="path47" />
+       fill="#aa111e"
+       d="M 28.779,38.35 28,39 34,44 V 42.699 Z M 42.98,38.496 34,39.994 v 1.01 l 12,-2 z"
+       transform="matrix(1.0069,0,0,1.02209,-46.29,-4.972)"
+       id="path16-5" />
+    <path
+       fill="#e59305"
+       d="m 1.256,27.07 0.785,0.665 -6.04,5.11 v -1.33 z m -14.299,0.15 9.04,1.531 v 1.028 l -12.08,-2.044 z"
+       id="path17" />
   </g>
 </svg>
