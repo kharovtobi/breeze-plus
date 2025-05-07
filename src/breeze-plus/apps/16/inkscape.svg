@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="inkscape.svg"
+   inkscape:version="1.4.1 (93de688d07, 2025-03-30)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="49.75"
+     inkscape:cx="8.0100503"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g12" />
+  <defs
+     id="defs6">
+    <linearGradient
+       id="a"
+       y1="543.79999"
+       y2="503.79999"
+       x2="0"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#2a2c2f"
+         id="stop1" />
+      <stop
+         offset="1"
+         stop-color="#424649"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       id="b"
+       y1="532.79999"
+       y2="506.79999"
+       x2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-0.5)">
+      <stop
+         stop-color="#989a9b"
+         id="stop3" />
+      <stop
+         offset="1"
+         stop-color="#f6f6f7"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="c"
+       y1="522.79999"
+       x1="403.57001"
+       y2="534.79999"
+       x2="413.26001"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#020303"
+         id="stop5" />
+      <stop
+         offset="1"
+         stop-color="#424649"
+         stop-opacity="0"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#c"
+       id="d"
+       y1="521.79999"
+       x1="400.76999"
+       y2="533.59998"
+       gradientUnits="userSpaceOnUse"
+       x2="412.57001" />
+    <path
+       fill-rule="evenodd"
+       id="e"
+       d="m 426.57,529.8 -16,11 -8,-8 -2,-9 17,-5 z" />
+    <linearGradient
+       id="a-3"
+       y1="543.79999"
+       y2="503.79999"
+       x2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-2.5)">
+      <stop
+         stop-color="#2a2c2f"
+         id="stop1-5" />
+      <stop
+         offset="1"
+         stop-color="#424649"
+         id="stop2-6" />
+    </linearGradient>
+    <linearGradient
+       id="a-3-1"
+       y1="543.79999"
+       y2="503.79999"
+       x2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(2.6e-6)">
+      <stop
+         stop-color="#2a2c2f"
+         id="stop1-5-2" />
+      <stop
+         offset="1"
+         stop-color="#424649"
+         id="stop2-6-7" />
+    </linearGradient>
+  </defs>
+  <g
+     transform="matrix(0.4,0,0,0.4,-151.428,-197.52)"
+     id="g12">
+    <g
+       fill-rule="evenodd"
+       id="g7"
+       transform="translate(-10,-10)">
+      <path
+         fill="url(#a)"
+         d="m 408.57,543.8 -20,-15 20,-25 20,25 z"
+         id="path6"
+         style="fill:url(#a)"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         fill="url(#b)"
+         d="m 402.57,532.3 -8,-7 14,-19 9,12 -17,5 z"
+         id="path7"
+         style="fill:url(#b)" />
+    </g>
+    <use
+       opacity="0.3"
+       fill="url(#c)"
+       xlink:href="#e"
+       id="use7"
+       style="fill:url(#c)"
+       transform="translate(-10,-10.5)" />
+    <g
+       fill-rule="evenodd"
+       id="g9"
+       transform="translate(-10,-10.5)">
+      <path
+         fill="#ffffff"
+         fill-opacity="0.235"
+         d="m 394.57,525.8 14,-17 9,10 -9,-12 z"
+         id="path8" />
+    </g>
+    <use
+       opacity="0.2"
+       fill="url(#d)"
+       xlink:href="#e"
+       id="use9"
+       style="fill:url(#d)"
+       transform="translate(-10,-10.5)" />
+    <g
+       fill-rule="evenodd"
+       id="g11"
+       transform="translate(-10,-10.5)">
+      <path
+         fill="#25272b"
+         d="m 402.57,532.8 -1,-8 16,-6 -17,5 z"
+         id="path10" />
+      <path
+         fill="#bbbec1"
+         fill-opacity="0.998"
+         d="m 402.57,532.8 -3,-9 15,-5 -6,-10 9,10 -17,5 z"
+         id="path11" />
+    </g>
+    <path
+       d="m 379.82,517.2375 -1.25,1.5625 20,15 20,-15 -1.25,-1.5625 -18.75,14.0625 z"
+       style="fill:#212325;fill-opacity:1"
+       id="path1" />
+  </g>
+</svg>
