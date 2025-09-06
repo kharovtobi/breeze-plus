@@ -116,13 +116,11 @@
   <path
      id="rect4412"
      style="opacity:0.2;fill:url(#linearGradient5728);fill-opacity:1;stroke-width:1.19523"
-     d="M 4,12 H 43.999996 V 43.999996 H 31.999998 L 4.0000004,16 Z"
-     sodipodi:nodetypes="cccccc" />
+     d="M 17.367188 8 L 4 12 L 4 16 L 32 44 L 44 44 L 44 12 L 17.367188 8 z " />
   <path
      id="rect1950"
      style="fill:url(#linearGradient3958);fill-opacity:1;stroke-width:0.848005"
-     d="M 4.0000004,4.0000002 V 16 H 8 v -4 h 3.999999 v 4 l 8,-10e-7 V 12 h 4 v 3.999999 h 3.999999 v 7.999999 h 4 l -1e-6,-3.999999 h 4 v -4.000001 l 4,1e-6 v 4 H 44 V 4.0000002 Z"
-     sodipodi:nodetypes="ccccccccccccccccccccc" />
+     d="M 4 4 L 4 16 L 8 16 L 8 12 L 12 12 L 12 18 L 16 18 L 16 10 L 20 10 L 20 16 L 24 16 L 24 12 L 28 12 L 28 18 L 32 18 L 32 14 L 36 14 L 36 22 L 40 22 L 40 16 L 44 16 L 44 4 L 4 4 z " />
   <rect
      style="opacity:0.2;fill:#000000;fill-rule:evenodd;stroke-width:0.278205"
      id="rect47-3"
