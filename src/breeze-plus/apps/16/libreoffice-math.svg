@@ -42,12 +42,12 @@
          stop-color="#6c7a89"
          id="stop1-6"
          offset="0"
-         style="stop-color:#e23272;stop-opacity:1;" />
+         style="stop-color:#e1538e;stop-opacity:1;" />
       <stop
          offset="1"
          stop-color="#768492"
          id="stop2-1"
-         style="stop-color:#da5e9a;stop-opacity:1;" />
+         style="stop-color:#e1539e;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient11"
@@ -80,16 +80,6 @@
        y2="514.79999" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#a-3"
-       id="linearGradient13"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.72727,0,0,0.68966,-383.843,-497.869)"
-       y1="745.10486"
-       x2="527.78613"
-       y2="721.90497"
-       x1="527.78613" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#b-7"
        id="linearGradient14"
        gradientUnits="userSpaceOnUse"
@@ -98,6 +88,33 @@
        y1="512.04022"
        x2="388.57001"
        y2="505.79999" />
+    <linearGradient
+       id="a-3-3"
+       y1="785.71002"
+       y2="727.71002"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       gradientTransform="matrix(0.72727,0,0,0.68966,-66.830789,8.1621558)">
+      <stop
+         stop-color="#6c7a89"
+         id="stop1-6-6"
+         offset="0"
+         style="stop-color:#e1538e;stop-opacity:1;" />
+      <stop
+         offset="1"
+         stop-color="#768492"
+         id="stop2-1-7"
+         style="stop-color:#e1539b;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#a-3"
+       id="linearGradient2"
+       x1="0"
+       y1="16"
+       x2="0"
+       y2="0"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="namedview11"
@@ -119,7 +136,7 @@
      inkscape:current-layer="svg11" />
   <path
      d="M 2,0 V 16 H 14 V 5.5 L 8.5,0 Z"
-     style="fill:url(#linearGradient13)"
+     style="fill:url(#linearGradient2);fill-opacity:1"
      id="path6" />
   <path
      d="M 2.00001,14.99999 H 14 V 16 H 2.00001 Z"
@@ -129,7 +146,7 @@
      id="path7" />
   <path
      d="m 14,4 c 0,0 0.02,-3.99 0,-4 h -4 z"
-     style="fill:#d71f62;fill-opacity:1"
+     style="fill:#d84175;fill-opacity:1"
      id="path8" />
   <path
      d="M 14,8 12.20312,6 h -4 L 6,10 5.9375,12.24023 5,12 8,15 h 6 z"
