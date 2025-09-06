@@ -91,15 +91,6 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1"
-       id="linearGradient1026"
-       x1="44"
-       y1="44"
-       x2="4"
-       y2="4"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient1027"
        id="linearGradient1028"
        x1="12"
@@ -128,8 +119,4 @@
      id="path3"
      style="fill:url(#linearGradient1024);stroke-width:0.960769"
      d="m 24,10 a 14,12 0 0 0 -14,12 14,12 0 0 0 4.417969,8.748047 L 12,38 19.125,33.25 a 14,12 0 0 0 0.002,0 A 14,12 0 0 0 24,34 14,12 0 0 0 38,22 14,12 0 0 0 24,10 Z" />
-  <path
-     style="fill:url(#linearGradient1026);stroke-width:0.999994"
-     d="m 13.738693,18.974874 v 1 h 2 v 5 h 1 v -5 h 2 v -1 z m 7,0 -2,6 h 1 l 0.333984,-0.999999 h 2.332032 l 0.333984,0.999999 h 1 l -2,-6 z m 4,0 v 6 h 4 v -0.999999 h -3 v -5.000001 z m 5,0 v 6 h 1 v -2.499999 l 2,2.499999 h 1 l -2,-3 2,-3 h -1 l -2,2.5 v -2.5 z m -8.5,1.5 0.833984,2.5 h -1.667968 z"
-     id="path4" />
 </svg>
