@@ -95,7 +95,7 @@
      height="39.999996"
      x="4"
      y="4"
-     ry="0" />
+     ry="2" />
   <path
      id="rect288"
      style="fill:#191919;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
@@ -104,12 +104,9 @@
   <path
      id="rect4412"
      style="opacity:0.2;fill:url(#linearGradient5728);fill-opacity:1;stroke-width:1.19523"
-     d="M 42 15 L 16 20 L 17 21 L 16 21 L 14 23.5 L 18.003906 27.994141 L 8 33 L 20 44 L 44 44 L 44 17 L 42 15 z " />
-  <rect
-     style="opacity:0.2;fill:#000000;fill-rule:evenodd;stroke-width:0.278205"
+     d="M 42 15 L 16 20 L 17 21 L 16 21 L 14 23.5 L 18.003906 27.994141 L 8 33 L 20 44 L 42 44 C 43.108 44 44 43.108 44 42 L 44 17 L 42 15 z " />
+  <path
      id="rect47-3"
-     width="39.999996"
-     height="0.99999988"
-     x="4"
-     y="42.999996" />
+     style="opacity:0.2;fill:#000000;fill-rule:evenodd;stroke-width:0.278205"
+     d="M 4 41 L 4 42 C 4 43.108 4.892 44 6 44 L 42 44 C 43.108 44 44 43.108 44 42 L 44 41 C 44 42.108 43.108 43 42 43 L 6 43 C 4.892 43 4 42.108 4 41 z " />
 </svg>
