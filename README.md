@@ -12,7 +12,7 @@ Breeze icon theme is great for KDE and LXQt. But, some icons are missing or don'
 
 ## Install
 
-* via AUR(will be upload)
+* via AUR
 
 ```
 $ yay -S breeze-plus
@@ -45,4 +45,4 @@ $ ./install-system-wide.sh
 
 [ ] LXQt Support
 
-[ ] Wine App icons support
+[x] Wine App icons support
