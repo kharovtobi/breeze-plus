@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="cities-skylines-2.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="16.583333"
+     inkscape:cx="23.969849"
+     inkscape:cy="24"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <defs
+     id="defs2">
+    <linearGradient
+       gradientTransform="translate(-1.52e-6)"
+       xlink:href="#linearGradient3"
+       id="linearGradient4236"
+       x1="407.62601"
+       y1="543.76801"
+       x2="407.68701"
+       y2="504.133"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3">
+      <stop
+         style="stop-color:#09c3ff;stop-opacity:1;"
+         offset="0"
+         id="stop1-6" />
+      <stop
+         style="stop-color:#007fed;stop-opacity:1;"
+         offset="1"
+         id="stop2-7" />
+    </linearGradient>
+  </defs>
+  <g
+     transform="translate(-384.57143,-499.798)"
+     id="g3">
+    <rect
+       style="fill:url(#linearGradient4236);fill-opacity:1"
+       width="40"
+       height="40"
+       x="388.57"
+       y="503.8"
+       ry="3"
+       id="rect2" />
+    <path
+       style="opacity:0.15;fill:#000000;fill-opacity:1"
+       d="m 388.57143,539.798 0,1 c 0,1.662 1.338,3 3,3 l 34,0 c 1.662,0 3,-1.338 3,-3 l 0,-1 c 0,1.662 -1.338,3 -3,3 l -34,0 c -1.662,0 -3,-1.338 -3,-3 z"
+       id="path2" />
+    <path
+       d="m 407.57143,510.04001 c -0.0164,0.008 -0.0327,0.0167 -0.0488,0.0254 l -10.90234,6 c -0.64939,0.35722 -1.04928,1.01774 -1.04883,1.73242 v 3 c 0,0.97319 0.20416,1.08584 0.9707,1.55469 l 5.0293,2.76758 v -4.92969 l 6,-3.30274 z m 2,0 v 6.84765 l 6,3.30274 v 0.002 l 6,3.30273 v -5.69731 c 4.5e-4,-0.71468 -0.39944,-1.3752 -1.04883,-1.73242 l -10.90234,-6 c -0.0162,-0.009 -0.0324,-0.0171 -0.0488,-0.0254 z m 6,12.43554 v 4.92969 l -6,3.30274 v 6.84765 c 0.0164,-0.008 0.0327,-0.0167 0.0488,-0.0254 l 10.90234,-6 c 0.64939,-0.35722 1.04928,-1.01774 1.04883,-1.73242 v -3 c 0,-0.97319 -0.20416,-1.08584 -0.9707,-1.55469 z m -20,1.625 v 5.69727 c -4.5e-4,0.71468 0.39944,1.3752 1.04883,1.73242 l 10.90234,6 c 0.0162,0.009 0.0324,0.0171 0.0488,0.0254 v -6.84765 l -6,-3.30274 v -0.002 z"
+       style="fill:#ffffff"
+       id="path3" />
+  </g>
+</svg>
