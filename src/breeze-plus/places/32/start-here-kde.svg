@@ -14,7 +14,7 @@
      id="defs1">
     <style
        type="text/css"
-       id="current-color-scheme">.ColorScheme-Accent { color: #3daee9; } .ColorScheme-Text { color: #232629; } </style>
+       id="current-color-scheme">.ColorScheme-Highlight { color: #3daee9; } .ColorScheme-Text { color: #232629; } </style>
   </defs>
   <sodipodi:namedview
      id="namedview1"
@@ -49,6 +49,6 @@
        style="fill:currentColor"
        transform="translate(46,1)"
        d="M 32,4 A 1.5,1.5 0 0 0 30.5,5.5 1.5,1.5 0 0 0 32,7 1.5,1.5 0 0 0 33.5,5.5 1.5,1.5 0 0 0 32,4 Z m 10.5,0 -3,3 4.5,4.5 -4.5,4.5 3,3 7.5,-7.5 z m -14,9 A 2.5,2.5 0 0 0 26,15.5 2.5,2.5 0 0 0 28.5,18 2.5,2.5 0 0 0 31,15.5 2.5,2.5 0 0 0 28.5,13 Z m 6.5,9 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z"
-       class="ColorScheme-Accent" />
+       class="ColorScheme-Highlight" />
   </g>
 </svg>
