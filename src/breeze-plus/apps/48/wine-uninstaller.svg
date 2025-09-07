@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   fill="none"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg22"
+   sodipodi:docname="wine-uninstaller.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview22"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="16.583333"
+     inkscape:cx="23.969849"
+     inkscape:cy="24"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg22" />
+  <defs
+     id="defs6">
+    <linearGradient
+       id="a"
+       x1="30.625"
+       x2="44"
+       y1="28"
+       y2="42"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop1" />
+      <stop
+         offset="1"
+         stop-opacity=".326"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       id="b"
+       x1="16.752"
+       x2="36.002"
+       y1="-4.5"
+       y2="32"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#fff"
+         id="stop3" />
+      <stop
+         offset="1"
+         stop-color="#fff"
+         stop-opacity="0"
+         id="stop4" />
+    </linearGradient>
+    <style
+       type="text/css"
+       id="current-color-scheme" />
+    <linearGradient
+       id="c"
+       y1="523.79999"
+       x1="403.57001"
+       y2="536.79999"
+       x2="416.57001"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-384.57,-499.8)">
+      <stop
+         stop-color="#292c2f"
+         id="stop5" />
+      <stop
+         offset="1"
+         stop-opacity="0"
+         id="stop6" />
+    </linearGradient>
+  </defs>
+  <path
+     fill="#0E56AC"
+     d="M24.156 23.813 4 18.843V43c0 .554.446 1 1 1h16.02z"
+     id="path6" />
+  <path
+     fill="#0878CA"
+     d="M5 4c-.554 0-1 .446-1 1v15l20 4 4-20zm39 24-20-4-4 20h23c.554 0 1-.446 1-1z"
+     id="path7" />
+  <path
+     fill="#0E56AC"
+     d="M26.868 4 23.8 24.188 44 28.031V5c0-.554-.447-1-1-1z"
+     id="path8" />
+  <path
+     opacity="0.4"
+     fill="url(#c)"
+     fill-rule="evenodd"
+     d="m 15.42,34 9.586,9.586 h 19 L 47.592,29 34.006,15.414 Z"
+     id="path10-3"
+     style="fill:url(#c)" />
+  <path
+     fill="#1F1F68"
+     d="M4.002 42v1c0 .554.446 1 1 1h38c.554 0 1-.446 1-1v-1c0 .554-.446 1-1 1h-38c-.554 0-1-.446-1-1"
+     opacity=".472"
+     id="path12" />
+  <path
+     fill="#fff"
+     d="M4.002 6V5c0-.554.446-1 1-1h38c.554 0 1 .446 1 1v1c0-.554-.446-1-1-1h-38c-.554 0-1 .446-1 1"
+     opacity=".35"
+     id="path13" />
+  <path
+     fill="#fff"
+     d="M4.22 4.25v.156c0 .216.15.396.425.502-.442.147-.645.547-.645.817v.156C4 5.547 4.415 5 5 5h.154c.02.001.034.007.055.007h37.555c.02 0 .034-.006.054-.006H43c.593 0 1 .557 1 .89v-.156c0-.27-.242-.682-.672-.83.272-.106.424-.285.424-.5V4.25c0 .323-.416.58-.94.596H5.16c-.523-.017-.94-.273-.94-.596"
+     opacity=".417"
+     id="path14" />
+  <path
+     fill="#5B84FF"
+     d="M4.22 43.752v-.156c0-.216.15-.396.425-.502-.442-.148-.645-.547-.645-.817v-.156c0 .334.415.879 1 .879h.154c.02 0 .034-.006.055-.006h37.555c.02 0 .034.005.054.006H43c.593 0 1-.557 1-.89v.156c0 .27-.242.682-.672.83.272.106.424.285.424.5v.156c0-.323-.416-.58-.94-.596H5.16c-.523.017-.94.273-.94.596"
+     opacity=".548"
+     id="path15" />
+  <path
+     fill="#6E6E6E"
+     fill-opacity=".194"
+     d="M43 4H5a1 1 0 0 0-1 1v38a1 1 0 0 0 1 1h38a1 1 0 0 0 1-1V5a1 1 0 0 0-1-1"
+     id="path10" />
+  <path
+     fill="url(#b)"
+     d="M43.002 4h-38a1 1 0 0 0-1 1v38a1 1 0 0 0 1 1h38a1 1 0 0 0 1-1V5a1 1 0 0 0-1-1"
+     opacity=".551"
+     id="path11" />
+  <path
+     d="M 15.414,14 24.00391,22.58594 32.584,14 33.998,15.414 25.414,24 33.998,32.586 32.584,34 24.00391,25.41406 15.414,34 14,32.586 22.584,24 14,15.414 Z"
+     style="opacity:1;fill:#fafafa;fill-opacity:1"
+     id="path1" />
+</svg>
