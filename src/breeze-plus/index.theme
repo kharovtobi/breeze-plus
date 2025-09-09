@@ -192,6 +192,35 @@ Type=Scalable
 MinSize=96
 MaxSize=256
 
+# preferences
+
+[preferences/22]
+Size=22
+Context=Applications
+Type=Fixed
+
+[preferences/24]
+Size=24
+Context=Applications
+Type=Fixed
+
+[preferences/24@2x]
+Size=24
+Scale=2
+Context=Applications
+Type=Fixed
+
+[preferences/24@3x]
+Size=24
+Scale=3
+Context=Applications
+Type=Fixed
+
+[preferences/32]
+Size=32
+Context=Applications
+Type=Fixed
+
 # Status
 
 [status/16]
