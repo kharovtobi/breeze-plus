@@ -1,5 +1,5 @@
 # breeze-plus
- Breeze theme with additional icons
+ Breeze icon theme with additional icons
 
 ## Sources
 
@@ -8,11 +8,11 @@
 
 ## Purposes
 
-Breeze icon theme is great. But, some icons are missing or don't follow Breeze Design Guideline.
+Breeze icon theme is great for KDE and LXQt. But, some icons are missing or don't follow Breeze Design Guideline and KDE VDG decided to remove 3rd Party App icons recently.
 
 ## Install
 
-* via AUR(will be upload)
+* via AUR
 
 ```
 $ yay -S breeze-plus
@@ -45,4 +45,4 @@ $ ./install-system-wide.sh
 
 [ ] LXQt Support
 
-[ ] Wine App icons support
+[x] Wine App icons support
