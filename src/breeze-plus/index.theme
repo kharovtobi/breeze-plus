@@ -94,9 +94,7 @@ Type=Fixed
 [devices/22]
 Size=22
 Context=Devices
-Type=Scalable
-MinSize=22
-MaxSize=24
+Type=Fixed
 
 # Mimetypes
 
